@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavsinghz&theme=tokyonight"  width=77% height=auto  alt="1" >
 
 ## Language
-<img align="left"  width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsinghz&theme=tokyonight" />
+<img align="left"  width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavsinghz&theme=tokyonight" />
