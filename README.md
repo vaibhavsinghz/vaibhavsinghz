@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🔭 I’m currently working as a **SDE-1 Backend Developer**
-- 🌱 🌱 I'm interested in **DSA (Data Structures and Algorithms)**
+- 🌱 I'm interested in **DSA (Data Structures and Algorithms)**
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=golang,mysql,aws,redis,java,nodejs,cpp,github,gitlab,git,linux&theme=dark)](https://skillicons.dev)<br>
