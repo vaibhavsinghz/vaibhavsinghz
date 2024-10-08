@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 
 ## About Me
 - 🔭 I’m currently working as a **SDE-1 Backend Developer**
-- 👯 I’m looking to collaborate on **Any Open Source Project.**
+- 🌱 🌱 I'm interested in **DSA (Data Structures and Algorithms)**
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=golang,mysql,aws,redis,java,nodejs,cpp,github,gitlab,git,linux&theme=dark)](https://skillicons.dev)<br>
-
-## My Productivity Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavsinghz&theme=tokyonight"  width=77% height=auto  alt="1" >
-
